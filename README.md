@@ -25,10 +25,8 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0D1117.svg?style=for-the-badge&logo=visual-studio-code&logoColor=blue)
 
 ### Operating System:
-![Ubuntu](https://img.shields.io/badge/Ubuntu-0D1117?style=for-the-badge&logo=ubuntu&logoColor=orange)
 ![Linux](https://img.shields.io/badge/Linux-0D1117?style=for-the-badge&logo=linux&logoColor=yellow)
 ![Android](https://img.shields.io/badge/Android-0D1117?style=for-the-badge&logo=android&logoColor=green)
-![Windows](https://img.shields.io/badge/Windows-0D1117?style=for-the-badge&logo=windows&logoColor=blue)
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
