@@ -1,6 +1,6 @@
 
 <div>
-  <img width="35%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorGMoreira&layout=compact&hide_border=true&title_color=58A6FF&text_color=F8F8FF&bg_color=0d1117" />
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorGMoreira&layout=compact&hide_border=true&title_color=58A6FF&text_color=F8F8FF&bg_color=0d1117" />
 </div>
  
 ### Languages:
